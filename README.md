@@ -45,7 +45,7 @@ You can adjust the sensitivity of aim by adjusting aim_k in FinalProject_hand_de
 You can adjust the sensitivity of enter movement mode by adjusting move_k in FinalProject_hand_detection.py
 
 # Only test hand gesture recognition 
-If you only want to test the hand gesture recognition without running Carhost.py on raspberry pi, you can just run FinalProject_hand_detection_test.py on PC after installing mediapipe and cv2:
+If you just want to test the hand gesture recognition without running Carhost.py on raspberry pi, you can run FinalProject_hand_detection_test.py on PC after installing mediapipe and cv2:
 ```
 python3 FinalProject_hand_detection_test.py
 ```
