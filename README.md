@@ -39,7 +39,9 @@ aim_k = 0.3
 move_k = 20
 ```
 You can adjust the sensitivity of trigger by adjusting trigger_k in FinalProject_hand_detection.py
+
 You can adjust the sensitivity of aim by adjusting aim_k in FinalProject_hand_detection.py
+
 You can adjust the sensitivity of enter movement mode by adjusting move_k in FinalProject_hand_detection.py
 
 # Only test hand gesture recognition 
