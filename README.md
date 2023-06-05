@@ -12,7 +12,8 @@ pip install mediapipe
 
 ## Setting
 
-Server IP is the ip address of raspberry pi
+Server IP is the ip address of raspberry pi.
+
 Set the server IP in FinalProject_hand_detection.py and Carhost.py to the Server IP of raspberry pi
 
 ## Run
