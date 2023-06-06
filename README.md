@@ -18,9 +18,9 @@ Set the server IP in FinalProject_hand_detection.py and Carhost.py to the Server
 
 ## Run
 
-Run Carhost.py on raspberry pi first:
+Run CarHost.py on raspberry pi first:
 ```
-python3 Carhost.py
+python3 CarHost.py
 ```
 
 Run FinalProject_hand_detection.py on PC:
